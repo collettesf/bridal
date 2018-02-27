@@ -37,6 +37,11 @@ body {
   padding: 10px;
 }
 
+h2 {
+  color: purple;
+}
+
+
 header, footer {
   background:#D9CAAD ;
 }
